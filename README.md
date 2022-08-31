@@ -12,21 +12,21 @@ A social media application developed using React,MongoDb,Nodejs and Express  for
 ## Features
 
 - Login
--Registration
--Forgot Password
--Reset Password
--Change Password
--Get Profile Details
--Update Profile Details
--Upload Profile Picture
--Follow/Unfollow User
--Create Post
--Fetch Posts
--Like/Unlike Post
--Update Post
--Delete Post
--Add Comment
--Get Comments
--Like/Unlike Comment
--Delete Comment
+- Registration
+- Forgot Password
+- Reset Password
+- Change Password
+- Get Profile Details
+- Update Profile Details
+- Upload Profile Picture
+- Follow/Unfollow User
+- Create Post
+- Fetch Posts
+- Like/Unlike Post
+- Update Post
+- Delete Post
+- Add Comment
+- Get Comments
+- Like/Unlike Comment
+- Delete Comment
 
