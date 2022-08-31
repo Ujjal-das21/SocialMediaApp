@@ -5,9 +5,7 @@
 
 A social media application developed using React,MongoDb,Nodejs and Express  for sharing and connecting with people around the world. It is a web application that allows users to share their photos,like,comment,follow,unfollow  users.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+
 
 ## Features
 
